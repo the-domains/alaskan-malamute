@@ -1,0 +1,14 @@
+layout_spectrum: 0.4639284
+typography_spectrum: 0.9678748
+color:
+  saturation: 0.6472239
+  lightness: 0.5415264
+  brandStrength: 0.6178933
+  rhythmicContrast: 0.2167265
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Alaskan Malamute
