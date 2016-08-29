@@ -1,8 +1,26 @@
-layout_spectrum: 0.4639284
-typography_spectrum: 0.9678748
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6472239
   lightness: 0.5415264
   brandStrength: 0.6178933
+  brandColors:
+    - '#FFFFFF'
+    - '#261C1B'
+    - '#61C889'
+    - '#D4BAA9'
+    - '#C6535A'
   rhythmicContrast: 0.2167265
+typography_spectrum: 0.914787
+layout_spectrum: 0.4639284
 name: Alaskan Malamute
